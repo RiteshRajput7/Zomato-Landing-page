@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **ritesh28022000@gmail.com**
 
-- 
+- to connect with me on linkedin https://www.linkedin.com/in/ritesh-kumar-31653b1b5/
