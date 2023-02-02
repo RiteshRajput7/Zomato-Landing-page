@@ -1,14 +1,8 @@
-# Zomato-Landing-page
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">A passionate Web developer graduate from India</h3>
+#This is a zomato langing page clone which we will be creating in upcoming days
 
-- 🔭 I’m currently working on **zomato-landing-page**
+New Msg has to be added from Colaborartor B
 
-- 🌱 I’m currently learning **Full Stack Development.**
+Zomato-landing-page-DT
+rohan1917
 
-- 💬 Ask me about **Html,CSS,Javascript**
-
-- 📫 How to reach me **ritesh28022000@gmail.com**
-
-- to connect with me on linkedin https://www.linkedin.com/in/ritesh-kumar-31653b1b5/
-
+This is a new installation Setup Branch.
